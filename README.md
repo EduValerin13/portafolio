@@ -7,6 +7,33 @@ En mi trayectoria académica he adquirido habilidades y conocimientos en program
 
 Mi objetivo profesional es desarrollarme como un experto en ciberseguridad y contribuir a la protección de los sistemas y datos de empresas y usuarios. También me interesa el desarrollo de software, especialmente en la creación de sistemas, programas y aplicaciones que resuelvan problemas reales y mejoren la experiencia de los usuarios.
 
+## Skills
+| Programming languages    | C++, advance
+Python, intermediate
+R, intermediate  | JavaScript, advance
+C#, intermediate
+Kotlin, intermediate
+  | SQL, advance
+PHP, intermediate
+Java, basic
+  |
+| Frameworks    | React, advance  | Express, advance  | Vue.js, intermediate  |
+| Softwares    | Cisco Packet Tracer, advance
+Word, advance
+  | MATLAB, advance
+Excel, intermediate
+  | Unity, advance
+Android Studio, intermediate
+  |
+| Spoken languages    | Spanish, native | English, B2 | . |
+| Interpersonal Skills    | Critical thinking
+Problem Solving
+ | Excellent Communication
+Highly responsible
+ | Empathy
+Flexibility and Adaptability 
+ |
+
 ## Proyectos
 ### App Prodan
 Aplicación movil para la organización Prodan la cual permite y facilita a los usuarios el poder postularse como casas temporales para el animal que ellos seleccionen, haciendo que estos puedan revisar la solicitud a traves de Google Forms. La aplicación fue desarrollada en Android Studio, ademas de contar con una página web donde los administradores de la organización pueden dar de alta o de baja distintos animales.
