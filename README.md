@@ -7,32 +7,6 @@ En mi trayectoria académica he adquirido habilidades y conocimientos en program
 
 Mi objetivo profesional es desarrollarme como un experto en ciberseguridad y contribuir a la protección de los sistemas y datos de empresas y usuarios. También me interesa el desarrollo de software, especialmente en la creación de sistemas, programas y aplicaciones que resuelvan problemas reales y mejoren la experiencia de los usuarios.
 
-## Skills
-| Programming languages    | C++, advance
-Python, intermediate
-R, intermediate  | JavaScript, advance
-C#, intermediate
-Kotlin, intermediate
-  | SQL, advance
-PHP, intermediate
-Java, basic
-  |
-| Frameworks    | React, advance  | Express, advance  | Vue.js, intermediate  |
-| Softwares    | Cisco Packet Tracer, advance
-Word, advance
-  | MATLAB, advance
-Excel, intermediate
-  | Unity, advance
-Android Studio, intermediate
-  |
-| Spoken languages    | Spanish, native | English, B2 | . |
-| Interpersonal Skills    | Critical thinking
-Problem Solving
- | Excellent Communication
-Highly responsible
- | Empathy
-Flexibility and Adaptability 
- |
 
 ## Proyectos
 ### App Prodan
