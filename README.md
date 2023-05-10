@@ -12,14 +12,19 @@ Mi objetivo profesional es desarrollarme como un experto en ciberseguridad y con
 ### App Prodan
 Aplicación movil para la organización Prodan la cual permite y facilita a los usuarios el poder postularse como casas temporales para el animal que ellos seleccionen, haciendo que estos puedan revisar la solicitud a traves de Google Forms. La aplicación fue desarrollada en Android Studio, ademas de contar con una página web donde los administradores de la organización pueden dar de alta o de baja distintos animales.
 
+Video de presentación: https://www.youtube.com/watch?v=TbRKnSdQoXs
+
 ### Infraestructura de Red Completa
 Desarrollo de una diseño completo de infraestructura de red en Cisco Packet Tracer para una empresa mediana en la cual se creó una tabla en Excel con las direcciones IP generadas después de subnetear con VLSM una red de clase C, se protegió la consola de línea, se aseguró el acceso EXEC del usuario con una contraseña para cada enrutador y switch y se establecieron servicios DHCP y VLANs para cada router.
+
+Video de presentación: https://www.youtube.com/watch?v=K8sB1rZ6Zm8
 
 ### Juegos Python
 Desarrollo de 3 minijuegos en Python utilizando la librería turtle y freegames, los cuales se componen por:
 Una imitación de paint donde se pueden crear distintas figuras como circulos, rectangulos y triangulos
 Un juego de snake donde se destaca que la manzana que se debe comer el snake se mueve cada cierto tiempo, además de que cuando este se come la manzana este crece y una nueva manzana hace spawn aleatoriamente en alguna parte del mapa
 Una aplicación de memograma que contiene una lista de carros, en la cual se debe encontrar su respectivo par para cada vehículo para poder ganar
+
 
 ### Multiagentes Unity
 Proyecto desarrollado en Unity y haciendo uso de python (multiagentes) cuya función es servir como una propuesta para reducir el trafico en una intersección vehicular haciendo uso de semaforos inteligentes, los cuales hacen que el trafico vehicular fluya de mejor manera en comparación a los semáforos tradicionales. Para esto se realizo la lógica de los vehículos y de los semaforos en Python, para después implementarlo en un proyecto de Unity donde se crearon distintos vehículos, edificios, semáforos y otros detalles para dar ambiente a la situación presentada
