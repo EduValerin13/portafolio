@@ -62,6 +62,7 @@ Proyecto desarrollado en Unity y haciendo uso de python (multiagentes) cuya func
 </p>
 
 Video de simulación 1: https://www.youtube.com/watch?v=0K8liNkntnU
+
 Video de simulación 2: https://www.youtube.com/watch?v=wm5DH0iDiZg
 
 ### Walmart Vue.js
