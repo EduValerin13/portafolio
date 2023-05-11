@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.prodan.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_detailsFragment"
+            app:destination="@id/detailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/firstTimeFragment"
+        android:name="com.example.prodan.FirstTimeFragment"
+        android:label="fragment_first_time"
+        tools:layout="@layout/fragment_first_time" />
+    <fragment
+        android:id="@+id/formsFragment"
+        android:name="com.example.prodan.FormsFragment"
+        android:label="fragment_forms"
+        tools:layout="@layout/fragment_forms" />
+    <fragment
+        android:id="@+id/contactFragment"
+        android:name="com.example.prodan.ContactFragment"
+        android:label="fragment_contact"
+        tools:layout="@layout/fragment_contact" >
+        <action
+            android:id="@+id/action_contactFragment_to_avisoDePrivacidadFragment"
+            app:destination="@id/avisoDePrivacidadFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/userFragment"
+        android:name="com.example.prodan.UserFragment"
+        android:label="fragment_user"
+        tools:layout="@layout/fragment_user" >
+        <action
+            android:id="@+id/action_userFragment_to_editProfileFragment"
+            app:destination="@id/editProfileFragment" />
+        <action
+            android:id="@+id/action_userFragment_to_galleryUploadFragment"
+            app:destination="@id/galleryUploadFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailsFragment"
+        android:name="com.example.prodan.DetailsFragment"
+        android:label="fragment_details"
+        tools:layout="@layout/fragment_details" >
+        <action
+            android:id="@+id/action_detailsFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/favoritesFragment"
+        android:name="com.example.prodan.FavoritesFragment"
+        android:label="fragment_favorites"
+        tools:layout="@layout/fragment_favourites" >
+        <action
+            android:id="@+id/action_favoritesFragment_to_detailsFragment"
+            app:destination="@id/detailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/editProfileFragment"
+        android:name="com.example.prodan.EditProfileFragment"
+        android:label="fragment_edit_profile"
+        tools:layout="@layout/fragment_edit_profile" >
+        <action
+            android:id="@+id/action_editProfileFragment_to_userFragment2"
+            app:destination="@id/userFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/galleryUploadFragment"
+        android:name="com.example.prodan.GalleryUploadFragment"
+        android:label="fragment_gallery_upload"
+        tools:layout="@layout/fragment_gallery_upload" >
+        <action
+            android:id="@+id/action_galleryUploadFragment_to_userFragment"
+            app:destination="@id/userFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/privacyPolicyFragment"
+        android:name="com.example.prodan.PrivacyPolicyFragment"
+        android:label="fragment_privacy_policy"
+        tools:layout="@layout/fragment_privacy_policy" />
+    <fragment
+        android:id="@+id/avisoDePrivacidadFragment"
+        android:name="com.example.prodan.AvisoDePrivacidadFragment"
+        android:label="fragment_aviso_de_privacidad"
+        tools:layout="@layout/fragment_aviso_de_privacidad" >
+        <action
+            android:id="@+id/action_avisoDePrivacidadFragment_to_contactFragment2"
+            app:destination="@id/contactFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/registerFragment"
+        android:name="com.example.prodan.RegisterFragment"
+        android:label="fragment_register"
+        tools:layout="@layout/fragment_register" >
+        <action
+            android:id="@+id/action_registerFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+</navigation>
