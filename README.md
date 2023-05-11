@@ -67,3 +67,9 @@ Video de simulación 2: https://www.youtube.com/watch?v=wm5DH0iDiZg
 
 ### Walmart Vue.js
 Desarrollo de una web app en cuatro días haciendo uso de Vue.js, la cual busca ser una imitación de la página de Walmart, en la cual se despliegan los productos disponibles con su precio, además de permitir al usuario poder agregar los productos deseados al carrito de compras. Adicionalmente, cuenta con una página de log in para que el usuario pueda mantener guardado su carrito, si el usuario no tiene una cuenta este no podrá guardar sus items en el carrito.
+<p align="center">
+  <img src="Imagenes/Walmart1.png" alt="Página de log in">
+  <img src="Imagenes/Walmart4.png" alt="Página de registro">
+  <img src="Imagenes/Walmart2.png" alt="Página de inicio">
+  <img src="Imagenes/Walmart3.png" alt="Página del carrito">
+</p>
