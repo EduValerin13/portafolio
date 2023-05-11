@@ -39,15 +39,15 @@ Video de presentación: https://www.youtube.com/watch?v=K8sB1rZ6Zm8
 Desarrollo de 3 minijuegos en Python utilizando la librería turtle y freegames, los cuales se componen por:
 Una imitación de paint donde se pueden crear distintas figuras como circulos, rectangulos y triangulos
 Un juego de snake donde se destaca que la manzana que se debe comer el snake se mueve cada cierto tiempo, además de que cuando este se come la manzana este crece y una nueva manzana hace spawn aleatoriamente en alguna parte del mapa
-Una aplicación de memograma que contiene una lista de carros, en la cual se debe encontrar su respectivo par para cada vehículo para poder ganar
+Una aplicación de memorama que contiene una lista de carros, en la cual se debe encontrar su respectivo par para cada vehículo para poder ganar
 
 <p align="center">
   <img src="Imagenes/Paint.png" alt="Distintas figuras con colores">
   <img src="Imagenes/Snake1.png" alt="Pantalla de GameOver">
   <img src="Imagenes/Snake2.png" alt="Tamaño total del snake">
-  <img src="Imagenes/Memograma1.png" alt="Inicio del memograma">
-  <img src="Imagenes/Memograma2.png" alt="Memograma casi terminado">
-  <img src="Imagenes/Memograma3.png" alt="Memograma completado">
+  <img src="Imagenes/Memorama1.png" alt="Inicio del memorama">
+  <img src="Imagenes/Memorama2.png" alt="Memorama casi terminado">
+  <img src="Imagenes/Memorama3.png" alt="Memorama completado">
 </p>
 
 ### Multiagentes Unity
