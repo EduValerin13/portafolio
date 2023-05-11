@@ -12,10 +12,26 @@ Mi objetivo profesional es desarrollarme como un experto en ciberseguridad y con
 ### App Prodan
 Aplicación movil para la organización Prodan la cual permite y facilita a los usuarios el poder postularse como casas temporales para el animal que ellos seleccionen, haciendo que estos puedan revisar la solicitud a traves de Google Forms. La aplicación fue desarrollada en Android Studio, ademas de contar con una página web donde los administradores de la organización pueden dar de alta o de baja distintos animales.
 
+<p align="center">
+  <img src="Imagenes/ProdanPantallas1.png" alt="Pantallas de la app móvil 1">
+  <img src="Imagenes/ProdanPantallas2.png" alt="Pantallas de la app móvil 2">
+  <img src="Imagenes/ProdanPantallas3.png" alt="Pantallas de la app móvil 3">
+  <img src="Imagenes/ProdanPantallas4.png" alt="Pantalla de la web app 1">
+  <img src="Imagenes/ProdanPantallas5.png" alt="Pantalla de la web app 2">
+</p>
+
 Video de presentación: https://www.youtube.com/watch?v=TbRKnSdQoXs
 
 ### Infraestructura de Red Completa
 Desarrollo de una diseño completo de infraestructura de red en Cisco Packet Tracer para una empresa mediana en la cual se creó una tabla en Excel con las direcciones IP generadas después de subnetear con VLSM una red de clase C, se protegió la consola de línea, se aseguró el acceso EXEC del usuario con una contraseña para cada enrutador y switch y se establecieron servicios DHCP y VLANs para cada router.
+
+<p align="center">
+  <img src="Imagenes/Redes1.png" alt="Subneteo de Red Tipo C">
+  <img src="Imagenes/Redes2.png" alt="Diseño lógico completo">
+  <img src="Imagenes/Redes3.png" alt="Diseño lógico corporativo">
+  <img src="Imagenes/Redes4.png" alt="Diseño lógico sucursal 1">
+  <img src="Imagenes/Redes5.png" alt="Diseño lógico sucursal 2">
+</p>
 
 Video de presentación: https://www.youtube.com/watch?v=K8sB1rZ6Zm8
 
