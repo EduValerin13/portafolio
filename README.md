@@ -61,5 +61,8 @@ Proyecto desarrollado en Unity y haciendo uso de python (multiagentes) cuya func
   <img src="Imagenes/Multiagentes5.png" alt="Luminarias y semaforos utilizados en la escena">
 </p>
 
+Video de simulación 1: https://www.youtube.com/watch?v=0K8liNkntnU
+Video de simulación 2: https://www.youtube.com/watch?v=wm5DH0iDiZg
+
 ### Walmart Vue.js
 Desarrollo de una web app en cuatro días haciendo uso de Vue.js, la cual busca ser una imitación de la página de Walmart, en la cual se despliegan los productos disponibles con su precio, además de permitir al usuario poder agregar los productos deseados al carrito de compras. Adicionalmente, cuenta con una página de log in para que el usuario pueda mantener guardado su carrito, si el usuario no tiene una cuenta este no podrá guardar sus items en el carrito.
