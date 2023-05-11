@@ -53,5 +53,17 @@ Una aplicación de memorama que contiene una lista de carros, en la cual se debe
 ### Multiagentes Unity
 Proyecto desarrollado en Unity y haciendo uso de python (multiagentes) cuya función es servir como una propuesta para reducir el trafico en una intersección vehicular haciendo uso de semaforos inteligentes, los cuales hacen que el trafico vehicular fluya de mejor manera en comparación a los semáforos tradicionales. Para esto se realizo la lógica de los vehículos y de los semaforos en Python, para después implementarlo en un proyecto de Unity donde se crearon distintos vehículos, edificios, semáforos y otros detalles para dar ambiente a la situación presentada
 
+<p align="center">
+  <img src="Imagenes/Multiagentes1.png" alt="Escena General en Unity">
+  <img src="Imagenes/Multiagentes2.png" alt="Vehículos utilizados en la escena">
+  <img src="Imagenes/Multiagentes3.png" alt="Edificios utilizados en la escena">
+  <img src="Imagenes/Multiagentes4.png" alt="Assets de fondo">
+  <img src="Imagenes/Multiagentes5.png" alt="Luminarias y semaforos utilizados en la escena">
+</p>
+
+Video de simulación 1: https://www.youtube.com/watch?v=0K8liNkntnU
+
+Video de simulación 2: https://www.youtube.com/watch?v=wm5DH0iDiZg
+
 ### Walmart Vue.js
 Desarrollo de una web app en cuatro días haciendo uso de Vue.js, la cual busca ser una imitación de la página de Walmart, en la cual se despliegan los productos disponibles con su precio, además de permitir al usuario poder agregar los productos deseados al carrito de compras. Adicionalmente, cuenta con una página de log in para que el usuario pueda mantener guardado su carrito, si el usuario no tiene una cuenta este no podrá guardar sus items en el carrito.
