@@ -41,6 +41,14 @@ Una imitación de paint donde se pueden crear distintas figuras como circulos, r
 Un juego de snake donde se destaca que la manzana que se debe comer el snake se mueve cada cierto tiempo, además de que cuando este se come la manzana este crece y una nueva manzana hace spawn aleatoriamente en alguna parte del mapa
 Una aplicación de memograma que contiene una lista de carros, en la cual se debe encontrar su respectivo par para cada vehículo para poder ganar
 
+<p align="center">
+  <img src="Imagenes/Paint.png" alt="Distintas figuras con colores">
+  <img src="Imagenes/Snake1.png" alt="Pantalla de GameOver">
+  <img src="Imagenes/Snake2.png" alt="Tamaño total del snake">
+  <img src="Imagenes/Memograma1.png" alt="Inicio del memograma">
+  <img src="Imagenes/Memograma2.png" alt="Memograma casi terminado">
+  <img src="Imagenes/Memograma3.png" alt="Memograma completado">
+</p>
 
 ### Multiagentes Unity
 Proyecto desarrollado en Unity y haciendo uso de python (multiagentes) cuya función es servir como una propuesta para reducir el trafico en una intersección vehicular haciendo uso de semaforos inteligentes, los cuales hacen que el trafico vehicular fluya de mejor manera en comparación a los semáforos tradicionales. Para esto se realizo la lógica de los vehículos y de los semaforos en Python, para después implementarlo en un proyecto de Unity donde se crearon distintos vehículos, edificios, semáforos y otros detalles para dar ambiente a la situación presentada
